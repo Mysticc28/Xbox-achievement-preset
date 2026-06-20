@@ -11,4 +11,4 @@ Customised for [Achievements](https://github.com/PSerban93/Achievements) by @PSe
 <img width="800" height="436" alt="Xbox Series Rare" src="https://github.com/user-attachments/assets/dff020ce-62bc-4820-9371-4359b865786e" />
 
 # How to install
-Download zip under Code, navigate to `%appdata%/achievements/presets` (Windows+R and paste), and extract the folders in User Presets.
+Download zip under Code, navigate to `%appdata%/achievements/presets` (Windows+R and paste), and extract the folders in User Presets. Move sound files to %appdata%/achievements/sounds. Enjoy.
